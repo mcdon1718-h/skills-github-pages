@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog!
 
-text: Hello world
+text: this is the index-md title
 ---
